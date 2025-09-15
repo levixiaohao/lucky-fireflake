@@ -1,4 +1,4 @@
-name = "lucky-snowflake"
+name = "lucky-fireflake"
 main = "_worker.js"
 compatibility_date = "2025-09-07"
 
@@ -9,3 +9,4 @@ UUID = "66ec32e7-7337-5d1c-5d47-3e15a7d98e36"
 PROXYIP = "proxyip.cmliussss.net:443	"
 SCV	 = "false"
 URL = "https://levixiaohao.github.io/"
+
