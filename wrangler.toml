@@ -1,5 +1,11 @@
-name = "lucky-snowman"
+name = "lucky-snowflake"
 main = "_worker.js"
 compatibility_date = "2025-09-07"
 
 keep_vars = true
+
+[vars]
+UUID = "66ec32e7-7337-5d1c-5d47-3e15a7d98e36"
+PROXYIP = "proxyip.cmliussss.net:443	"
+SCV	 = "false"
+URL = "https://levixiaohao.github.io/"
